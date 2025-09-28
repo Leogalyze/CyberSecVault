@@ -52,6 +52,10 @@ const config: QuartzConfig = {
         },
       },
     },
+    contentDir: "./content",
+  },
+  output: {
+    outputDir: "docs",
   },
   plugins: {
     transformers: [
