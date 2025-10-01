@@ -3,8 +3,8 @@ title: Pirâmide da Dor
 description: Conceito geral da pirâmide da dor
 tags:
   - "#Threat_Landscape"
-date: 2025-09-28
 lastmod: 2025-09-28
+date: 2025-09-28
 weight: 27
 ---
 ---
