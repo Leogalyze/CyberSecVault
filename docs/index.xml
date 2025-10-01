@@ -2,68 +2,68 @@
 <rss version="2.0">
     <channel>
       <title>CyberSecVault</title>
-      <link>https://https://github.com/Leogalyze/CyberSecVault.git</link>
+      <link>https://https://leogalyze.github.io/CyberSecVault</link>
       <description>Últimas 10 notas on CyberSecVault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Cyber Kill Chain</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Cyber-Kill-Chain---O-que-e</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Cyber-Kill-Chain---O-que-e</guid>
+    <description><![CDATA[ Descrevendo a Cyber Kill Chain ]]></description>
+    <pubDate>Tue, 30 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
     <title>Redes - MOC</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Map-of-Content-(MOC)/Redes---MOC</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Map-of-Content-(MOC)/Redes---MOC</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Redes---MOC</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Redes---MOC</guid>
     <description><![CDATA[ Modelo OSI e TCP/IP: Modelo OSI - O que é Modelo OSI - Camadas TCP-IP - O que é OSI e TCP IP - Diferenças Protocolos de Rede: IP (v4 e v6) - Funcionamento UDP (User Datagram Protocol) - O que é TCP (Transmission Control Protocol) - O que é TCP e UDP - Diferenças ICMP (Internet Control Message Protoc... ]]></description>
     <pubDate>Sun, 28 Sep 2025 06:37:49 GMT</pubDate>
   </item><item>
     <title>Início</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/</guid>
     <description><![CDATA[ Portfólio de Cibersegurança de Leonardo Oliveira ]]></description>
     <pubDate>Sun, 28 Sep 2025 06:37:49 GMT</pubDate>
   </item><item>
     <title>Pirâmide da Dor</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Threat-Landscape/Pir%C3%A2mide-da-Dor---O-que-%C3%A9</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Threat-Landscape/Pir%C3%A2mide-da-Dor---O-que-%C3%A9</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Piramide-da-Dor---O-que-e</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Piramide-da-Dor---O-que-e</guid>
     <description><![CDATA[ Conceito geral da pirâmide da dor ]]></description>
     <pubDate>Sun, 28 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Agentes de ameaça</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Threat-Landscape/Agentes-de-amea%C3%A7a</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Threat-Landscape/Agentes-de-amea%C3%A7a</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Agentes-de-amea%C3%A7a</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Agentes-de-amea%C3%A7a</guid>
     <description><![CDATA[ Tipos de criminosos e suas motivações ]]></description>
     <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Analisando Configurações de Firewalls e Identificando Falhas</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</guid>
     <description><![CDATA[ Aprendendo a ler/configurar regras e enxergar brechas que um atacante pode explorar. ]]></description>
     <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Segmentação de Redes com VLANs e Firewalls</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</guid>
     <description><![CDATA[ Como VLANs são usadas na prática para segmentação, junto com roteadores/firewalls. ]]></description>
     <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Virtual Local Area Networks (VLANs) - O que são?</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</guid>
     <description><![CDATA[ Entendendo VLANs na teoria e como elas funcionam ]]></description>
     <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Cálculo de Sub-redes com CIDR</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</guid>
     <description><![CDATA[ Resumo curto do que a nota aborda. ]]></description>
     <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
   </item><item>
     <title>Segmentação de Redes - O que é</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</guid>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</guid>
     <description><![CDATA[ Explicando o conceito de dividir uma rede maior em redes menores ]]></description>
-    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Firewall - O que é ?</title>
-    <link>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Firewall---O-que-%C3%A9</link>
-    <guid>https://https://github.com/Leogalyze/CyberSecVault.git/Redes/Firewalls,-Switches-e-Roteadores/Firewall---O-que-%C3%A9</guid>
-    <description><![CDATA[ Explicando o que é e como funciona os Firewalls ]]></description>
     <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
   </item>
     </channel>
