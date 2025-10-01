@@ -8,7 +8,7 @@ date: 2025-09-30
 weight: 28
 ---
 ---
-# # Cyber Kill Chain
+# Cyber Kill Chain
 
 O **Cyber Kill Chain** é um framework desenvolvido pela Lockheed Martin que descreve as etapas de um ataque cibernético.  
 Ele ajuda analistas a **entender, detectar e interromper** ataques em diferentes fases do ciclo de invasão.
