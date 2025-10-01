@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "https://github.com/Leogalyze/CyberSecVault.git",
+    baseUrl: "https://leogalyze.github.io/CyberSecVault",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
