@@ -3,10 +3,9 @@ title: Início
 description: Portfólio de Cibersegurança de Leonardo Oliveira
 slug: Home
 ---
-
 # ​Bem-vindos ao CyberSecVault!
 
-Olá! Eu sou **Leonardo Oliveira**, Profissional em transição para a cibersegurança, com foco em Análise de SOC/Blue Team. Este site, o **CyberSecVault**, é a materialização da minha jornada e paixão por cibersegurança.
+Olá! Eu sou **Leonardo Oliveira**, Profissional em início de carreira em Cibersegurança, com foco em Análise de SOC/Blue Team. Este site, o **CyberSecVault**, é a materialização da minha jornada e paixão por cibersegurança.
 
 ---
 # Portfólio e Jornada em Cibersegurança 
@@ -26,12 +25,15 @@ Sou um profissional em transição de carreira para área de segurança digital,
 # ​​​​Map of Content (MOC)
 
 * [[Redes - MOC]]
+* [[Ferramentas - MOC]]
+* [[Threat Landscape - MOC]]
 
 ---
 # ​Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/leonardooliveirads/)  
 - 🐙 [GitHub](https://github.com/Leogalyze)  
+- 💻​ [TryHackMe](https://tryhackme.com/p/leogalyze)
 
 ---
 ✨ *Cada erro ensina alguma coisa; ele mostra um caminho que você não teria descoberto de outra forma. Sem erros, não existe aprendizado, crescimento ou arte.*
