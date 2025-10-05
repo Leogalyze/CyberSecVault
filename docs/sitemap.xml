@@ -1,9 +1,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Metasploit</loc>
+    <lastmod>2025-10-02T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Nmap</loc>
+    <lastmod>2025-10-01T03:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Ping---O-que-%C3%A9</loc>
     <lastmod>2025-08-29T03:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Wireshark</loc>
+    <lastmod>2025-10-01T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Ferramentas---MOC</loc>
+    <lastmod>2025-10-03T03:27:25.275Z</lastmod>
+  </url><url>
     <loc>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Redes---MOC</loc>
     <lastmod>2025-09-28T06:37:49.000Z</lastmod>
+  </url><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Threat-Landscape---MOC</loc>
+    <lastmod>2025-10-03T03:28:46.881Z</lastmod>
   </url><url>
     <loc>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</loc>
     <lastmod>2025-09-02T03:00:00.000Z</lastmod>
@@ -76,6 +91,9 @@
   </url><url>
     <loc>https://https://leogalyze.github.io/CyberSecVault/Redes/Protocolos-de-Rede/UDP-(User-Datagram-Protocol)---O-que-%C3%A9</loc>
     <lastmod>2025-08-27T03:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https://leogalyze.github.io/CyberSecVault/Redes/Protocolos</loc>
+    <lastmod>2025-10-03T03:37:12.264Z</lastmod>
   </url><url>
     <loc>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Agentes-de-amea%C3%A7a</loc>
     <lastmod>2025-09-19T03:00:00.000Z</lastmod>

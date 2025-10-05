@@ -6,6 +6,42 @@
       <description>Últimas 10 notas on CyberSecVault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Protocolos</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Protocolos</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Protocolos</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:37:12 GMT</pubDate>
+  </item><item>
+    <title>Threat Landscape - MOC</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Threat-Landscape---MOC</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Threat-Landscape---MOC</guid>
+    <description><![CDATA[  Agentes de ameaça Piramide da Dor - O que e Cyber Kill Chain - O que e . ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:28:46 GMT</pubDate>
+  </item><item>
+    <title>Ferramentas - MOC</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Ferramentas---MOC</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Map-of-Content-(MOC)/Ferramentas---MOC</guid>
+    <description><![CDATA[  Ping - O que é Wireshark Nmap Metasploit . ]]></description>
+    <pubDate>Fri, 03 Oct 2025 03:27:25 GMT</pubDate>
+  </item><item>
+    <title>Metasploit</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Metasploit</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Metasploit</guid>
+    <description><![CDATA[ Nmap - O que e ]]></description>
+    <pubDate>Thu, 02 Oct 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nmap</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Nmap</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Nmap</guid>
+    <description><![CDATA[ Nmap - O que e ]]></description>
+    <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Wireshark</title>
+    <link>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Wireshark</link>
+    <guid>https://https://leogalyze.github.io/CyberSecVault/Ferramentas/Wireshark</guid>
+    <description><![CDATA[ Wireshark - O que e ]]></description>
+    <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
+  </item><item>
     <title>Cyber Kill Chain</title>
     <link>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Cyber-Kill-Chain---O-que-e</link>
     <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Cyber-Kill-Chain---O-que-e</guid>
@@ -29,42 +65,6 @@
     <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Piramide-da-Dor---O-que-e</guid>
     <description><![CDATA[ Conceito geral da pirâmide da dor ]]></description>
     <pubDate>Sun, 28 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Agentes de ameaça</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Agentes-de-amea%C3%A7a</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Threat-Landscape/Agentes-de-amea%C3%A7a</guid>
-    <description><![CDATA[ Tipos de criminosos e suas motivações ]]></description>
-    <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Analisando Configurações de Firewalls e Identificando Falhas</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</guid>
-    <description><![CDATA[ Aprendendo a ler/configurar regras e enxergar brechas que um atacante pode explorar. ]]></description>
-    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Segmentação de Redes com VLANs e Firewalls</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</guid>
-    <description><![CDATA[ Como VLANs são usadas na prática para segmentação, junto com roteadores/firewalls. ]]></description>
-    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Virtual Local Area Networks (VLANs) - O que são?</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</guid>
-    <description><![CDATA[ Entendendo VLANs na teoria e como elas funcionam ]]></description>
-    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Cálculo de Sub-redes com CIDR</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</guid>
-    <description><![CDATA[ Resumo curto do que a nota aborda. ]]></description>
-    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
-  </item><item>
-    <title>Segmentação de Redes - O que é</title>
-    <link>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</link>
-    <guid>https://https://leogalyze.github.io/CyberSecVault/Redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</guid>
-    <description><![CDATA[ Explicando o conceito de dividir uma rede maior em redes menores ]]></description>
-    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
